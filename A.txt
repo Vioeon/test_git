@@ -1,3 +1,7 @@
 print("BBBB")
 print('AAAA')
 print("CCCC")
+print("cccccccccccccccccccccc")
+print('AAAA')
+print("bbbbbbbbbbbbbbbbbbbbbbb")
+
